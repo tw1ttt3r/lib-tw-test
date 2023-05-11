@@ -1647,10 +1647,10 @@ levn@^0.4.1:
     prelude-ls "^1.2.1"
     type-check "~0.4.0"
 
-lib-tw@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/lib-tw/-/lib-tw-1.0.1.tgz#9c0447ef4b022af21c74b9d15600be4f13b0287b"
-  integrity sha512-6C1ii7eBz2S7uziM6Tkukh4ta+60JYoZROWNyxtzmLl8x2LVMHUpQrOFcUHLVMISmosbNQ4hq7hvlK5Tu2RAuA==
+lib-tw@^2.0.30:
+  version "2.0.30"
+  resolved "https://registry.yarnpkg.com/lib-tw/-/lib-tw-2.0.30.tgz#8244065292bd6dbf353baa4ba205f63984ad2ae9"
+  integrity sha512-V5kzpkNi8gn8uBQMIw+QDCvjYhZqYwi8PXMoYpJe69+ExtjqOaBzRHjrWT6lV9f7MUd6OGPJ5QbboBB8SN1Uow==
 
 lilconfig@^2.0.5, lilconfig@^2.1.0:
   version "2.1.0"
