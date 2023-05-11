@@ -1476,6 +1476,11 @@ levn@^0.4.1:
     prelude-ls "^1.2.1"
     type-check "~0.4.0"
 
+lib-tw@^2.0.30:
+  version "2.0.30"
+  resolved "https://registry.yarnpkg.com/lib-tw/-/lib-tw-2.0.30.tgz#8244065292bd6dbf353baa4ba205f63984ad2ae9"
+  integrity sha512-V5kzpkNi8gn8uBQMIw+QDCvjYhZqYwi8PXMoYpJe69+ExtjqOaBzRHjrWT6lV9f7MUd6OGPJ5QbboBB8SN1Uow==
+
 locate-path@^6.0.0:
   version "6.0.0"
   resolved "https://registry.yarnpkg.com/locate-path/-/locate-path-6.0.0.tgz#55321eb309febbc59c4801d931a72452a681d286"
